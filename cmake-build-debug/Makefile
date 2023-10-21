@@ -57,10 +57,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Mohamed/Downloads/ADS_Assignment_3
+CMAKE_SOURCE_DIR = "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Mohamed/Downloads/ADS_Assignment_3/cmake-build-debug
+CMAKE_BINARY_DIR = "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mohamed/Downloads/ADS_Assignment_3/cmake-build-debug/CMakeFiles /Users/Mohamed/Downloads/ADS_Assignment_3/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug//CMakeFiles/progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mohamed/Downloads/ADS_Assignment_3/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -129,30 +129,6 @@ ADS_Assignment_3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/build
 .PHONY : ADS_Assignment_3/fast
 
-calc.o: calc.cpp.o
-.PHONY : calc.o
-
-# target to build an object file
-calc.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/calc.cpp.o
-.PHONY : calc.cpp.o
-
-calc.i: calc.cpp.i
-.PHONY : calc.i
-
-# target to preprocess a source file
-calc.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/calc.cpp.i
-.PHONY : calc.cpp.i
-
-calc.s: calc.cpp.s
-.PHONY : calc.s
-
-# target to generate assembly for a file
-calc.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/calc.cpp.s
-.PHONY : calc.cpp.s
-
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -186,9 +162,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ADS_Assignment_3"
-	@echo "... calc.o"
-	@echo "... calc.i"
-	@echo "... calc.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
