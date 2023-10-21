@@ -8,8 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/Mohamed/Downloads/ADS_Assignment_3/calc.cpp" "CMakeFiles/ADS_Assignment_3.dir/calc.cpp.o" "gcc" "CMakeFiles/ADS_Assignment_3.dir/calc.cpp.o.d"
-  "/Users/Mohamed/Downloads/ADS_Assignment_3/main.cpp" "CMakeFiles/ADS_Assignment_3.dir/main.cpp.o" "gcc" "CMakeFiles/ADS_Assignment_3.dir/main.cpp.o.d"
+  "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.cpp" "CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o" "gcc" "CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o.d"
+  "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.cpp" "CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o" "gcc" "CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o.d"
+  "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/main.cpp" "CMakeFiles/ADS_Assignment_3.dir/main.cpp.o" "gcc" "CMakeFiles/ADS_Assignment_3.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

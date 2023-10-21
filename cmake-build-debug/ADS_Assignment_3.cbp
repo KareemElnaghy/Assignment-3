@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.cpp">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.h">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.cpp">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.h">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
 		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/main.cpp">
 			<Option target="ADS_Assignment_3"/>
 		</Unit>

@@ -129,6 +129,54 @@ ADS_Assignment_3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/build
 .PHONY : ADS_Assignment_3/fast
 
+BinaryTree.o: BinaryTree.cpp.o
+.PHONY : BinaryTree.o
+
+# target to build an object file
+BinaryTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o
+.PHONY : BinaryTree.cpp.o
+
+BinaryTree.i: BinaryTree.cpp.i
+.PHONY : BinaryTree.i
+
+# target to preprocess a source file
+BinaryTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.i
+.PHONY : BinaryTree.cpp.i
+
+BinaryTree.s: BinaryTree.cpp.s
+.PHONY : BinaryTree.s
+
+# target to generate assembly for a file
+BinaryTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.s
+.PHONY : BinaryTree.cpp.s
+
+KeyAndData.o: KeyAndData.cpp.o
+.PHONY : KeyAndData.o
+
+# target to build an object file
+KeyAndData.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o
+.PHONY : KeyAndData.cpp.o
+
+KeyAndData.i: KeyAndData.cpp.i
+.PHONY : KeyAndData.i
+
+# target to preprocess a source file
+KeyAndData.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.i
+.PHONY : KeyAndData.cpp.i
+
+KeyAndData.s: KeyAndData.cpp.s
+.PHONY : KeyAndData.s
+
+# target to generate assembly for a file
+KeyAndData.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.s
+.PHONY : KeyAndData.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ADS_Assignment_3"
+	@echo "... BinaryTree.o"
+	@echo "... BinaryTree.i"
+	@echo "... BinaryTree.s"
+	@echo "... KeyAndData.o"
+	@echo "... KeyAndData.i"
+	@echo "... KeyAndData.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
