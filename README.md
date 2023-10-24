@@ -75,7 +75,7 @@ The dictionary should provide the following functions:
 ***
 Update `README.md` todo list below:
 - [:white_check_mark: ] Run Test cases successfully
-- [ ] Submit your code on GitHub
+- [:white_check_mark:] Submit your code on GitHub
 
 :white_check_mark: Use `git status` to list all new or modified files that haven't yet been committed.
 
