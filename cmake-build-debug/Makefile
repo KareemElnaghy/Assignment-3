@@ -129,30 +129,6 @@ ADS_Assignment_3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/build
 .PHONY : ADS_Assignment_3/fast
 
-BinaryTree.o: BinaryTree.cpp.o
-.PHONY : BinaryTree.o
-
-# target to build an object file
-BinaryTree.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o
-.PHONY : BinaryTree.cpp.o
-
-BinaryTree.i: BinaryTree.cpp.i
-.PHONY : BinaryTree.i
-
-# target to preprocess a source file
-BinaryTree.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.i
-.PHONY : BinaryTree.cpp.i
-
-BinaryTree.s: BinaryTree.cpp.s
-.PHONY : BinaryTree.s
-
-# target to generate assembly for a file
-BinaryTree.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.s
-.PHONY : BinaryTree.cpp.s
-
 KeyAndData.o: KeyAndData.cpp.o
 .PHONY : KeyAndData.o
 
@@ -176,6 +152,78 @@ KeyAndData.s: KeyAndData.cpp.s
 KeyAndData.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.s
 .PHONY : KeyAndData.cpp.s
+
+Queuet.o: Queuet.cpp.o
+.PHONY : Queuet.o
+
+# target to build an object file
+Queuet.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o
+.PHONY : Queuet.cpp.o
+
+Queuet.i: Queuet.cpp.i
+.PHONY : Queuet.i
+
+# target to preprocess a source file
+Queuet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.i
+.PHONY : Queuet.cpp.i
+
+Queuet.s: Queuet.cpp.s
+.PHONY : Queuet.s
+
+# target to generate assembly for a file
+Queuet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.s
+.PHONY : Queuet.cpp.s
+
+Stackt.o: Stackt.cpp.o
+.PHONY : Stackt.o
+
+# target to build an object file
+Stackt.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o
+.PHONY : Stackt.cpp.o
+
+Stackt.i: Stackt.cpp.i
+.PHONY : Stackt.i
+
+# target to preprocess a source file
+Stackt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.i
+.PHONY : Stackt.cpp.i
+
+Stackt.s: Stackt.cpp.s
+.PHONY : Stackt.s
+
+# target to generate assembly for a file
+Stackt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.s
+.PHONY : Stackt.cpp.s
+
+binaryTree.o: binaryTree.cpp.o
+.PHONY : binaryTree.o
+
+# target to build an object file
+binaryTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o
+.PHONY : binaryTree.cpp.o
+
+binaryTree.i: binaryTree.cpp.i
+.PHONY : binaryTree.i
+
+# target to preprocess a source file
+binaryTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.i
+.PHONY : binaryTree.cpp.i
+
+binaryTree.s: binaryTree.cpp.s
+.PHONY : binaryTree.s
+
+# target to generate assembly for a file
+binaryTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ADS_Assignment_3.dir/build.make CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.s
+.PHONY : binaryTree.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -210,12 +258,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ADS_Assignment_3"
-	@echo "... BinaryTree.o"
-	@echo "... BinaryTree.i"
-	@echo "... BinaryTree.s"
 	@echo "... KeyAndData.o"
 	@echo "... KeyAndData.i"
 	@echo "... KeyAndData.s"
+	@echo "... Queuet.o"
+	@echo "... Queuet.i"
+	@echo "... Queuet.s"
+	@echo "... Stackt.o"
+	@echo "... Stackt.i"
+	@echo "... Stackt.s"
+	@echo "... binaryTree.o"
+	@echo "... binaryTree.i"
+	@echo "... binaryTree.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

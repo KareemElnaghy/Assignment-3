@@ -80,16 +80,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.cpp">
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/KeyAndData.cpp">
 			<Option target="ADS_Assignment_3"/>
 		</Unit>
-		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.h">
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/KeyAndData.h">
 			<Option target="ADS_Assignment_3"/>
 		</Unit>
-		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.cpp">
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Queuet.cpp">
 			<Option target="ADS_Assignment_3"/>
 		</Unit>
-		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.h">
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Queuet.h">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Stackt.cpp">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Stackt.h">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/binaryTree.cpp">
+			<Option target="ADS_Assignment_3"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/binaryTree.h">
 			<Option target="ADS_Assignment_3"/>
 		</Unit>
 		<Unit filename="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/main.cpp">

@@ -83,49 +83,81 @@ CMakeFiles/ADS_Assignment_3.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ADS_Assignment_3.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/main.cpp" -o CMakeFiles/ADS_Assignment_3.dir/main.cpp.s
 
+CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o: CMakeFiles/ADS_Assignment_3.dir/flags.make
+CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o: /Users/mac/Desktop/Data\ Structures/assignment-3-ads-KareemElnaghy/binaryTree.cpp
+CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o: CMakeFiles/ADS_Assignment_3.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o -MF CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o.d -o CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o -c "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/binaryTree.cpp"
+
+CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/binaryTree.cpp" > CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.i
+
+CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/binaryTree.cpp" -o CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.s
+
 CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o: CMakeFiles/ADS_Assignment_3.dir/flags.make
-CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o: KeyAndData.cpp
+CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o: /Users/mac/Desktop/Data\ Structures/assignment-3-ads-KareemElnaghy/KeyAndData.cpp
 CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o: CMakeFiles/ADS_Assignment_3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o -MF CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o.d -o CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o -c "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o -MF CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o.d -o CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o -c "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/KeyAndData.cpp"
 
 CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.cpp" > CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/KeyAndData.cpp" > CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.i
 
 CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/KeyAndData.cpp" -o CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/KeyAndData.cpp" -o CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.s
 
-CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o: CMakeFiles/ADS_Assignment_3.dir/flags.make
-CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o: BinaryTree.cpp
-CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o: CMakeFiles/ADS_Assignment_3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o -MF CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o.d -o CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o -c "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.cpp"
+CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o: CMakeFiles/ADS_Assignment_3.dir/flags.make
+CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o: /Users/mac/Desktop/Data\ Structures/assignment-3-ads-KareemElnaghy/Queuet.cpp
+CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o: CMakeFiles/ADS_Assignment_3.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o -MF CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o.d -o CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o -c "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Queuet.cpp"
 
-CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.cpp" > CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.i
+CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Queuet.cpp" > CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.i
 
-CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/BinaryTree.cpp" -o CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.s
+CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Queuet.cpp" -o CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.s
+
+CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o: CMakeFiles/ADS_Assignment_3.dir/flags.make
+CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o: /Users/mac/Desktop/Data\ Structures/assignment-3-ads-KareemElnaghy/Stackt.cpp
+CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o: CMakeFiles/ADS_Assignment_3.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o -MF CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o.d -o CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o -c "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Stackt.cpp"
+
+CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Stackt.cpp" > CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.i
+
+CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/Stackt.cpp" -o CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.s
 
 # Object files for target ADS_Assignment_3
 ADS_Assignment_3_OBJECTS = \
 "CMakeFiles/ADS_Assignment_3.dir/main.cpp.o" \
+"CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o" \
 "CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o" \
-"CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o"
+"CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o" \
+"CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o"
 
 # External object files for target ADS_Assignment_3
 ADS_Assignment_3_EXTERNAL_OBJECTS =
 
 ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/main.cpp.o
+ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/binaryTree.cpp.o
 ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/KeyAndData.cpp.o
-ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/BinaryTree.cpp.o
+ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/Queuet.cpp.o
+ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/Stackt.cpp.o
 ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/build.make
 ADS_Assignment_3: CMakeFiles/ADS_Assignment_3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ADS_Assignment_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/mac/Desktop/Data Structures/assignment-3-ads-KareemElnaghy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable ADS_Assignment_3"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ADS_Assignment_3.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
