@@ -3,10 +3,7 @@
 //
 
 #include "KeyAndData.h"
-DMS::DMS(): degrees(0), minutes(00), seconds(0), direction(){}
-
-//CityKey::CityKey(): cityName("") {
-//}
+DMS::DMS(): degrees(0), minutes(0), seconds(0), direction(){}
 
 CityData::CityData():country("") {
 }
